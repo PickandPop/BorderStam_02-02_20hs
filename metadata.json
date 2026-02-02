@@ -1,0 +1,5 @@
+{
+  "name": "Border Stamp Configurator",
+  "description": "A modern React application for customizing pet tags with real-time preview, utilizing Tailwind CSS for styling and TypeScript for type safety.",
+  "requestFramePermissions": []
+}
